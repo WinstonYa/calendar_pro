@@ -1,4 +1,4 @@
-# calendar_pro
+# Calendar_pro
 
 ## Project setup
 ```
